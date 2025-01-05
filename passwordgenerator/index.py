@@ -4,7 +4,7 @@ import string
 from cryptography.fernet import Fernet
 import os
 
-key='g8V5b3R_j6Jm6htd2ZZzK4t1Oa6b_6fi6eA9M12J3m0='
+key='your own private Base64 key,'
 
 
 
